@@ -1,4 +1,4 @@
-# asincronismo
+# Asincronismo
 
 Repositorio del curso de asincromismo
 
@@ -14,7 +14,7 @@ Repositorio del curso de asincromismo
 > - challenge.js
 > - fetchdata.js
 
-##Languages
+## Languages
 > - JavaScript
 
 - Creado por Nara Peña Gamez
